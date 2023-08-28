@@ -1,0 +1,52 @@
+const String titleApp = 'Marvel App';
+const String titleComics = 'Comics';
+const String titleSeries = 'Series';
+const String seeMore = 'Ver mas';
+const String free = 'Gratis';
+const String variants = 'Variantes';
+const String lblSettings = 'Settings';
+const String lblExit = 'Exit';
+const String lblTitleTermsConditions = 'Terms and conditions';
+const String lblNew = 'New';
+const String lnlRecommended = 'recommended';
+const String lblTitle = 'Title';
+const String lblNext = 'Next';
+const String lblTryAgain = 'Try Again';
+const String lblMinutes = 'Minutes';
+const String lblApply = 'Apply';
+const String lblCancel = 'Cancel';
+const String lblStop = 'Stop';
+const String lblUpdateApp = 'Update App';
+const String lblTitleUpdateApp = '¡Welcome to Marvel App';
+const String lblContentUpdateApp = 'We have released a new app update that includes exciting improvements and additional features';
+const String lblLaunchErrorTitle = 'Update failed';
+const String lblWithoutInternetTitle = 'oops! without Internet';
+const String lblWithoutInternetSubtitle = 'Please connect and try again.';
+const String lblNextFeatures = 'Para la siguiente actualizacion... ';
+const String lblSkip = 'Skip';
+const String lblDone = 'Done';
+
+///FAILURE
+const String lblUnknownTitle = 'Unknown Error';
+const String lblUnknownDescription = 'Retry Later: Unraveling the Mystery';
+const String lblParseErrorTitle = 'Data Retrieval Error';
+const String lblParseErrorDescription = 'Retry Later: Pending Data Recovery';
+const String lblNotFoundElementsTitle = 'No Results Found';
+const String lblNotFoundElementsDescription = 'Retry Later: Exploring Alternate Paths';
+const String lblUnauthorizedTitle = 'Unauthorized Access';
+const String lblUnauthorizedDescription = 'Retry Later: Guarding the Gates';
+const String lblNetworkTitle = 'Network Error';
+const String lblNetworkDescription = 'Retry Later: Restoring Connectivity';
+const String lblBrightnessErrorTitle = 'Brightness Error';
+const String lblBrightnessErrorDescription = 'Brightness Error';
+const String lblAppConfigErrorTitle = 'Config Error';
+const String lblAppConfigErrorDescription = 'Config Error';
+const String lblAppConfigsErrorTitle = 'Configs Error';
+const String lblAppConfigsErrorDescription = 'Configs Error';
+const String lblUrlParseErrorTitle = 'Url parse error';
+const String lblUrlParseErrorDescription = 'Url parse error description';
+const String lblUrlLaunchErrorTitle = 'Url launch error';
+const String lblUrlLaunchErrorDescription = 'Url launch error description';
+
+///FIREBASE
+const String lblRemoteConfigAppConfig = 'app_config';
